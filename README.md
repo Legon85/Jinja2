@@ -1,1 +1,1 @@
-# Jinja2
+# This is my project about learning Jinja2
