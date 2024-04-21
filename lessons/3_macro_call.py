@@ -85,9 +85,7 @@ print('-' * 60)
 
 # Например, есть список persons:
 
-persons = [{"name": "Aleksey", "old": 18, "weight": 78.5},
-           {"name": "Nicolay", "old": 28, "weight": 82.3},
-           {"name": "Ivan", "old": 33, "weight": 94.0}]
+с
 
 tpl = '''
 {% for u in users -%}
