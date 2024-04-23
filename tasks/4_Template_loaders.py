@@ -1,4 +1,4 @@
-# Воспользуемся шаблоном main.htm из директории tasks/templates (загрузить и обработать его) для следующих данных:
+# Воспользоваться шаблоном main.htm из директории practice/templates (загрузить и обработать его) для следующих данных:
 persons = [{"name": "Aleksey", "old": 18, "weight": 78.5},
            {"name": "Nicolay", "old": 28, "weight": 82.3},
            {"name": "Ivan", "old": 33, "weight": 94.0}]
